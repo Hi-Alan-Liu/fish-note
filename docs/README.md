@@ -12,7 +12,7 @@ iOS / Android 雙平台記帳 App，以可愛水族箱養成作為記帳動機�
 | 01 | [產品概述](01-product-overview.md) | 定位、目標用戶、核心循環 |
 | 02 | [核心玩法與經濟系統](02-gameplay-economy.md) | 飼料顏色、等級、金幣產出、防刷 |
 | 03 | [美術風格](03-art-style.md) | 可愛海底風格、裝飾類型、介面 |
-| 04 | [技術架構](04-tech-architecture.md) | Flutter + Flame、資料表、離線計時 |
+| 04 | [技術架構](04-tech-architecture.md) | Expo（React Native）+ Skia、資料表、離線計時、EAS 打包 |
 | 05 | [三階段總覽](05-roadmap.md) | 路線圖與階段門檻 |
 | 06 | [第一階段：MVP](06-phase-1-mvp.md) | 跑通核心循環 |
 | 07 | [第二階段：養成深度](07-phase-2-growth.md) | 內容擴充與記帳強化 |
